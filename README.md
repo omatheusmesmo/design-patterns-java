@@ -14,7 +14,7 @@ This repository serves as an **index** to all related projects, each demonstrati
 Each project below will showcase one or more design patterns.  
 The checkboxes indicate completion status:
 
-- [ ] [**Notifications Module (Factory Method)**](https://github.com/omatheusmesmo/notifications-factory)
+- [ ] [**Notifications Module (Factory Method + Strategy Pattern)**](https://github.com/omatheusmesmo/notifications-module)
   
 - [ ] [**Authentication System (Strategy Pattern)**](https://github.com/omatheusmesmo/authentication-strategy)
   
