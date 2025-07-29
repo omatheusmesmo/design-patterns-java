@@ -16,7 +16,7 @@ The checkboxes indicate completion status:
 
 - [x] [**Notifications Module (Factory Method + Strategy Pattern)**](https://github.com/omatheusmesmo/notifications-module)
   
-- [ ] [**Order Processing (Template Method + Chain of Responsibility)**](https://github.com/omatheusmesmo/order-processing-template)
+- [x] [**Order Processing (Template Method + Chain of Responsibility)**](https://github.com/omatheusmesmo/order-processing-template)
   
 - [ ] [**Reports Generator (Builder Pattern)**](https://github.com/omatheusmesmo/reports-builder)
   
